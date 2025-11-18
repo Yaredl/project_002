@@ -1,0 +1,27 @@
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding: 0 1em;
+  }
+
+  header {
+    padding: 3em 0 2em 0;
+  }
+
+  header .avatar img {
+    width: 6em;
+  }
+
+  header h1 {
+    font-size: 1.2em;
+    line-height: 1.4;
+    text-align: center;
+  }
+
+  ul.icons {
+    text-align: center;
+    padding: 1em 0;
+  }
+
+  ul.icons li {
+    padding: 0 0.5em;
+  }
